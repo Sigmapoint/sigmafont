@@ -1,6 +1,15 @@
 Sigmapoint's brand icon set
 ---------------------------
 
+
+Install
+-------
+
+With npm:
+
+    npm install sigmafont
+
+
 Building
 --------
 
