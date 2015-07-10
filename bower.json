@@ -1,0 +1,24 @@
+{
+  "name": "sigmafont",
+  "version": "1.0.1",
+  "description": "Sigmapoint's brand icon set",
+  "keywords": [
+    "font",
+    "sigmapoint",
+    "glyph",
+    "icon",
+    "glyphicon"
+  ],
+  "authors": [
+    "Karol Majta <karol.majta@sigmapoint.pl>"
+  ],
+  "license": "MIT",
+  "homepage": "www.sigmapoint.pl",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
