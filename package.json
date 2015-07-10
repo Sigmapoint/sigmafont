@@ -1,6 +1,6 @@
 {
   "name": "sigmafont",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sigmapoint's brand icon set",
   "main": "index.js",
   "scripts": {
